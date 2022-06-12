@@ -1,3 +1,5 @@
+import {RestaurantList} from './RestaurantList';
+
 export function RestaurantScreen() {
   return (
     <div>
@@ -5,10 +7,4 @@ export function RestaurantScreen() {
       <RestaurantList />
     </div>
   )
-}
-
-function RestaurantList() {
-  return (<div>
-    Restaurant List
-  </div>)
 }
