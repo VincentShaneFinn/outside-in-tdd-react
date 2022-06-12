@@ -5,15 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa036989-a882-4fff-9220-9f527fc90ffe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/cypress/e2e/listing-restaurants.cy.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/RestaurantScreen.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cypress/e2e/spec.cy.js" beforeDir="false" afterPath="$PROJECT_DIR$/cypress/e2e/spec.cy.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
   </component>
   <component name="GOROOT" url="file:///opt/homebrew/opt/go/libexec" />
   <component name="Git.Settings">
@@ -79,7 +85,7 @@
       <updated>1654967840351</updated>
       <workItem from="1654967849490" duration="783000" />
       <workItem from="1654968658633" duration="621000" />
-      <workItem from="1655050263118" duration="781000" />
+      <workItem from="1655050263118" duration="1823000" />
     </task>
     <servers />
   </component>
