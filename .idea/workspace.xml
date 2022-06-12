@@ -5,10 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fa036989-a882-4fff-9220-9f527fc90ffe" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/RestaurantList.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RestaurantList.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/api.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/reducers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/restaurants.spec.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/restaurants/actions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/store/restaurants/reducers.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/RestaurantList.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RestaurantList.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/RestaurantScreen.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/RestaurantScreen.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,8 +69,11 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/components" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/store" />
+    </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Jest.restaurants.loadRestaurants action.stores the restaurants">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="opinion-ate" />
       <working_directory value="$PROJECT_DIR$" />
@@ -92,8 +103,24 @@
       <test-file value="$PROJECT_DIR$/src/components/RestaurantList.spec.js" />
       <method v="2" />
     </configuration>
+    <configuration name="restaurants.loadRestaurants action.stores the restaurants" type="JavaScriptTestRunnerJest" temporary="true" nameIsGenerated="true">
+      <node-interpreter value="project" />
+      <node-options value="" />
+      <jest-package value="$PROJECT_DIR$/node_modules/react-scripts" />
+      <working-dir value="$PROJECT_DIR$" />
+      <envs />
+      <scope-kind value="TEST" />
+      <test-file value="$PROJECT_DIR$/src/store/restaurants.spec.js" />
+      <test-names>
+        <test-name value="restaurants" />
+        <test-name value="loadRestaurants action" />
+        <test-name value="stores the restaurants" />
+      </test-names>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Jest.restaurants.loadRestaurants action.stores the restaurants" />
         <item itemvalue="Jest.RestaurantList.spec.js" />
       </list>
     </recent_temporary>
@@ -108,7 +135,7 @@
       <updated>1654967840351</updated>
       <workItem from="1654967849490" duration="783000" />
       <workItem from="1654968658633" duration="621000" />
-      <workItem from="1655050263118" duration="2869000" />
+      <workItem from="1655050263118" duration="4354000" />
     </task>
     <servers />
   </component>
