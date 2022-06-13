@@ -11,6 +11,7 @@
       <change afterPath="$PROJECT_DIR$/src/store/restaurants.spec.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/store/restaurants/actions.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/store/restaurants/reducers.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
@@ -135,7 +136,7 @@
       <updated>1654967840351</updated>
       <workItem from="1654967849490" duration="783000" />
       <workItem from="1654968658633" duration="621000" />
-      <workItem from="1655050263118" duration="4354000" />
+      <workItem from="1655050263118" duration="5022000" />
     </task>
     <servers />
   </component>
